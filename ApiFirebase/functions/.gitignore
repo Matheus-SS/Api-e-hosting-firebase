@@ -1,0 +1,5 @@
+node_modules/
+permissions.json
+firestore-debug.log
+database-debug.log
+ui-debug.log
