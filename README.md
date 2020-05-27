@@ -6,6 +6,7 @@ Apenas uma simples api de ToDos  utilizando cloud functions para a construção 
 
 ### GET - Listar todos os items 
  - https://us-central1-first-firebase-api-1c7d8.cloudfunctions.net/App/api/read
+ 
 retorna todos os itens no formato de array de objetos
 	
 ### Post - Criar um item 
